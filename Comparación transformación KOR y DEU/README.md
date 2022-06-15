@@ -1,0 +1,2 @@
+# Comparación de la tranformación de datos de KOR y DEU al formato SIRD
+Comparación de la transformación de los datos oficiales de Corea del Sur y Alemania mediante los dos métodos propuestos en el Trabajo de Fin de Grado: una metodología que depende de disponer de los datos de recuperados oficiales registrados, y otra alternativa para estimar esas cifras de recuperados en caso de no presentar registros oficiales.
